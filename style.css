@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor_Productos {
+    height: 2500px;
+    width: 100%;
+    background-color: #a8a5ae;
+    padding-top: 50px
+}
+
+.boton_productos {
+    text-align: center;
+    font-size: 24px;
+    width: 280px;
+    height: 117px;
+    background-color: #d5bb42;
+    color: black;
+    border-radius: 0px 150px 150px 0px;
+    margin-left: 1%;
+    border: solid black;
+}
+
+.h1_productos {
+    padding-top: 30px;
+    padding-right: 45px;
+    color: #614e3e;
+}
+
+.botones_flexx{
+    display: flex;
+}
+
+/* ----------------------------------------------------placa solar */
+
+.boton_productos_2{
+    background-color: #cd8b2f;
+    font-size: 19px;
+    width: 285px;
+    height: 100px;
+    margin-top: 52px;
+    border: solid #040404;
+}
+
+.placa_solar {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.imagen1 {
+    width: 628px;
+    height: 485px;
+    background-image: url(./img/el_texto.jpg);
+    background-repeat: no-repeat;
+    margin-top: 80px;
+    margin-left: 215px;
+    border-radius: 30px;
+}
+
+.imagen2 {
+    width: 325px;
+    height: 525px;
+    background-image: url(./img/placa\ solar.png);
+    background-repeat: no-repeat;
+    padding-top:  50px;
+    margin-left: 120px;
+}
+.boton_productos_3{
+    background-color: #f29f32;
+}
+
+.imagen3{
+    width: 873px;
+    height: 247px;
+    background-image: url(./img/baterias.png);
+    background-repeat: no-repeat;
+    padding-top:  50px;
+    margin-left: 20%;
+    margin-top: 45px;
+    border-radius: 51px;
+}
+
+.bot{
+display: flex;
+}
+
+.bot1{
+    width: 150px;
+    height: 60px;
+    background-color: #f1e3a2;
+    border: solid;
+    border-radius: 31px;
+    text-align: center;
+    padding-top: 20px;
+    margin-right: 106px;
+}
+
+.bot2{
+    width: 190px;
+}
+
+.botbot{
+    margin-left: 383px;
+}
+
+.boton_productos_4{
+    width: 349px;
+    font-size: 21px;
+    margin-top: 55px;
+    background-color: #dbd96a;
+}
+
+.imagen4{
+    width: 100%;
+    height: 100%;
+    background-image: url(./img/lol.jpg);
+    background-repeat: no-repeat;
+    margin-left: 20%;
+    margin-top: 60px;
+}
+ 
